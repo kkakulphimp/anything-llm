@@ -1,6 +1,7 @@
 v-env
 .env
 !.env.example
+.codebuddy
 
 node_modules
 __pycache__
